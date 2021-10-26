@@ -1,1 +1,1 @@
-# Kodluyoruz Frontend Eğitimi
+# Kodluyoruz Frontend Egitimi
