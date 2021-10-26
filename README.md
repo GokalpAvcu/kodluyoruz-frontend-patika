@@ -1,1 +1,1 @@
-# HTML Temelleri
+# Kodluyoruz Frontend Eğitimi
