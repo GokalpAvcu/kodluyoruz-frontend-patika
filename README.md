@@ -1,1 +1,1 @@
-# Kodluyoruz Frontend Egitimi
+# CSS Temelleri
